@@ -1,0 +1,20 @@
+Primero nos paramos en la carpeta con 
+cd "ruta" (copiar de donde estamos trabajando con el código)
+
+dir
+
+una vez dentro de la carpeta..
+
+git pull (para asegurarse que no hay ningún cambio de alguien antes de querer subir lo nuestro)
+
+si todo sale bien..
+
+nos paramos en la carpeta que queremos subir, por ejemplo "src" con cd src
+
+dentro de la carpeta "src" git add ./ enter
+
+con git status chequeo los compenentes que estoy subiendo
+
+una vez que sé que son los que hay que subir  git commit -m"mensaje que quiera" enter
+
+git push enter 
